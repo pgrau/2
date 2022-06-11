@@ -1,0 +1,7 @@
+.idea/
+3/
+metrics/
+vendor/
+projects/
+composer.lock
+*.cache
